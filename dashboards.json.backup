@@ -16,28 +16,12 @@
       "last_captured": null,
       "capture_count": 0,
       "metadata": {}
-    },
-    "7cfcf114-d205-4f15-9ef8-e7ad12957c56": {
-      "id": "7cfcf114-d205-4f15-9ef8-e7ad12957c56",
-      "name": "facebook",
-      "url": "https://facebook.com",
-      "lists": [
-        "test1"
-      ],
-      "description": "",
-      "selected": false,
-      "status": "Ready",
-      "created_at": "2025-08-03T04:32:38.817637",
-      "updated_at": "2025-08-03 00:32:38 EDT",
-      "last_captured": null,
-      "capture_count": 0,
-      "metadata": {}
     }
   },
   "lists": [
     "test1",
     "test2"
   ],
-  "last_updated": "2025-08-03 00:32:38 EDT",
+  "last_updated": "2025-08-03 00:29:38 EDT",
   "version": "1.0"
 }

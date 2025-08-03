@@ -1,0 +1,8 @@
+Convert web application into a desktop application for streamlined usage
+
+Refactor the project to use Tkinter for a desktop GUI instead of Flask, adding desktop app files and updating dependencies.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: a56df51b-82a0-4147-b897-fabf238ad27e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/5828dde6-d748-43a0-a753-033abe4decf0/a56df51b-82a0-4147-b897-fabf238ad27e/XMcJxOb
